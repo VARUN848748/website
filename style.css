@@ -1,0 +1,395 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    /* border: 1px solid black; */
+    height: 150px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 8%;
+    /* position: fixed; */
+    font-size: 20px;
+    color: white;
+    background-color: #048404;
+
+}
+.main{
+    /* border: 1px solid black; */
+    height: 450px;
+    width: 100%;
+    display: flex;
+}
+.text{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 40%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 10px solid black;
+}
+.img{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 47%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+}
+.box{
+    /* border: 1px solid black; */
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.first{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 10px solid black;
+}
+.second{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    margin-right: 4%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.sub{
+    border: 1px solid navy;
+    height: 400px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.per{
+    border: 1px solid navy;
+    height: 450px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.tin{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+.tip{
+    /* border: 1px solid black; */
+    height: 500px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.tol{
+    /* border: 1px solid black; */
+    height: 500px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    margin-right: 4%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.ola{
+    border: 1px solid navy;
+    height: 360px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.holla{
+    border: 1px solid navy;
+    height: 280px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.value{
+    /* border: 1px solid black; */
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.null{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.but{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    margin-right: 4%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.subnull{
+    border: 1px solid navy;
+    height: 340px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.subbut{
+    border: 1px solid navy;
+    height: 450px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.middle{
+    /* border: 1px solid black; */
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.out{
+    /* border: 1px solid black; */
+    height: 450px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 0.5%;
+    border-radius: 5%;
+    margin-right: 4%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.subout{
+    border: 1px solid navy;
+    height: 300px;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 5%;
+    background-color: lightgoldenrodyellow;
+}
+.name{
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 100%;
+    display: flex;
+    /* margin-top: 7%; */
+    align-items: center;
+    gap: 15%;
+}
+.kumar{
+    /* border: 1px solid black; */
+    height: 150px;
+    width: 20%;
+    margin-left: 5%;
+    background-color: lightgoldenrodyellow;
+    align-content: center;
+    border-radius: 50px;
+}
+.khan{
+    /* border: 1px solid black; */
+    height: 150px;
+    width: 20%;
+    background-color:  lightgoldenrodyellow;
+    align-content: center;
+    border-radius: 50px;
+}
+.Chauhan{
+    /* border: 1px solid black; */
+    height: 150px;
+    width: 20%;
+    background-color: lightgoldenrodyellow;
+    align-content: center;
+    border-radius: 50px;
+}
+.topu{
+    /* border: 1px solid black; */
+    height: 750px;
+    width: 100%;
+    display: flex;
+}
+.us-1{
+    /* border: 1px solid black; */
+    height: 700px;
+    width: 40%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 15px solid black;
+    margin-left: 5%;
+}
+.logoo{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 10%;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px;
+}
+.payment{
+    /* border: 1px solid black; */
+    height: 900px;
+    width: 100%;
+    /* display: flex; */
+    margin-top: 2%;
+}
+.h1{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100%;
+    font-size: 30px;
+    color: yellow;
+}
+.window{
+    /* border: 1px solid black; */
+    height: 799px;
+    width: 100%;
+}
+.upppp{
+    /* border: 1px solid black; */
+    height: 700px;
+    width: 90%;
+    margin-left: 4%;
+    margin-top: 8%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 10px solid black;
+    margin-top: 1px;
+}
+.inner{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 5%;
+    background-color: #b3b3e6;
+    display: flex;      
+}
+.subinner{
+    border: 1px solid black;
+    width: 40%;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 4%;
+    border-radius: 10%;
+}
+.innersub{
+    border: 1px solid black;
+    width: 50%;
+    height: 500px;
+    margin-top: 5%;
+    margin-left: 3%;
+    border-radius: 10%;
+    background-color: white;
+}
+.join{
+    /* border: 1px solid black; */
+    height: 700px;
+    width: 100%;
+}
+.head{
+    /* border: 1px solid black; */
+    height: 150px;
+    width: 100%;
+}
+.subhead{
+    /* border: 1px solid black; */
+    height: 801.5px;
+    width: 100%;
+    display: flex;
+}
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.General{
+    width: 110%;
+    height: 266px;
+    /* border: 1px solid black; */
+    /* display: flex; */
+    color: navy;
+    /* align-items: center; */
+    /* justify-content: center; */
+    position: sticky;
+    top: 0;
+    border-radius: 20px;
+    margin-left: 75px;
+    background-color: lightgoldenrodyellow;
+}    
+.last{
+    /* border: 1px solid black; */
+    height: 700px;
+    width: 100%;
+    display: flex;
+    margin-top: 20%;
+}
+.form{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.potential{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    margin-right: 4%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
+.end{
+    /* border: 1px solid black; */
+    height: 550px;
+    width: 100%;
+    display: flex;
+}
+.in{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 100%;
+    margin-left: 4%;
+    margin-top: 4%;
+    border-radius: 5%;
+    margin-right: 4%;
+    background-color: white;
+    border-bottom: 15px solid black;
+}
